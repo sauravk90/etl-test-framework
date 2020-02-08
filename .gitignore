@@ -1,0 +1,6 @@
+# This is the repository's gitignore file, which describes which files to exclude from version control.
+
+# Ignore .env files
+#.env
+
+\.idea/
